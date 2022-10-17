@@ -2,4 +2,4 @@ git#!/bin/bash
 
 NAME="Leia"
 
-echo "Hello ${NAME}"
+echo "Hi ${NAME}"
